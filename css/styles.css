@@ -6070,6 +6070,10 @@ a.close.disabled {
   background-color: #f4623a !important;
 }
 
+.baligo{
+background: url("../assets/icon/bg-masthead.jpg");
+}
+
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
